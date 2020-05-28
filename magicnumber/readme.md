@@ -1,11 +1,3 @@
-Level of difficulty
-Easy
-
-Objectives
-Familiarize the student with:
-
-using the while loop;
-reflecting real-life situations in computer code.
 Scenario
 A junior magician has picked a secret number. He has hidden it in a variable named secret_number. He wants everyone who run his program to play the Guess the secret number game, and guess what number he has picked for them. Those who don't guess the number will be stuck in an endless loop forever! Unfortunately, he does not know how to complete the code.
 
