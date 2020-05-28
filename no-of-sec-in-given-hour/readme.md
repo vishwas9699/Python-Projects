@@ -1,0 +1,1 @@
+This program computes the number of seconds in a given number of hours.
