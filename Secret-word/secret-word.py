@@ -6,4 +6,4 @@ while animal != "chupacabra":
         print("wrong animal, pick again")
         animal = input("Please choose animal:")
 else:
-    print("nice")        
+    print("You've successfully left the loop.")        
