@@ -1,6 +1,6 @@
 myList = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
 
-newList= myList[0:9]
+newList= myList
 
 for i in myList:
     if 1 in newList:
