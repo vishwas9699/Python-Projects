@@ -54,4 +54,4 @@ while(ch==1):
                   print("%d is not valid input. Please enter 1, 2 ,3 ,4 or 5." % choice)
         except ValueError:
           print("%r is not valid input.  Please enter 1, 2, 3, 4 or 5.",choice)
-          print("Thank you for using this calculator!")   
+          print("Thank you for using this calculator!...")   
