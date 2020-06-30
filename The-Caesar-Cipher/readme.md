@@ -4,6 +4,6 @@
 
 *We've written it using the following assumptions:
    
-   *it accepts Latin letters only (note: the Romans used neither whitespaces nor digits)
+   *it accepts Latin letters only (note: the Romans used neither whitespaces nor digits)*
    
-   *all letters of the message are in upper case (note: the Romans knew only capitals)
+   *all letters of the message are in upper case (note: the Romans knew only capitals)*
