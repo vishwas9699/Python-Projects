@@ -7,5 +7,5 @@ try: # as the string-float conversion may raise an exception, it's best to conti
     for substr in strings: # iterate through the list...
         total += float(substr) #  ...and try to convert all its elements into float numbers; if it works, increase the sum;
     print("The total is:", total) # everything is good so far, so print the sum;
-except:
-    print(substr, "is not a number.")
+except: # the program ends here in the case of an error;
+    print(substr, "is not a number.") # print a diagnostic message showing the user the reason for the failure.
