@@ -11,7 +11,7 @@ else: # start the actual processing;
     iban2 = '' # this is the variable used to complete the number, created by replacing the letters with digits (according to the algorithm's step 03)
     for ch in iban: # iterate through the IBAN;
         if ch.isdigit(): # if the character is a digit... 
-            iban2 += ch
+            iban2 += ch # just copy it;
         else:
             iban2 += str(10 + ord(ch) - ord('A'))
     ibann = int(iban2)
