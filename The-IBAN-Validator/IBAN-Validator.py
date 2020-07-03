@@ -12,10 +12,10 @@ else: # start the actual processing;
     for ch in iban: # iterate through the IBAN;
         if ch.isdigit(): # if the character is a digit... 
             iban2 += ch # just copy it;
-        else:
-            iban2 += str(10 + ord(ch) - ord('A'))
-    ibann = int(iban2)
-    if ibann % 97 == 1:
-        print("IBAN entered is valid.")
-    else:
-        print("IBAN entered is invalid.")
+        else: # otherwise...
+            iban2 += str(10 + ord(ch) - ord('A')) # ...convert it into two digits (note the way it's done here)
+    ibann = int(iban2) # the converted form of the IBAN is ready - make an integer out of it;
+    if ibann % 97 == 1: # is the remainder of the division of iban2 by 97 equal to 1?
+        print("IBAN entered is valid.") #  If yes, then success;
+    else: # Otherwise...
+        print("IBAN entered is invalid.") # ...the number is invalid.
