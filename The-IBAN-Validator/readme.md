@@ -19,3 +19,14 @@ An IBAN-compliant account number consists of:
 *(step 3) Replace each letter in the string with two digits, thereby expanding the string, where A = 10, B = 11 ... Z = 35;*
 
 *(step 4) Interpret the string as a decimal integer and compute the remainder of that number on division by 97; If the remainder is 1, the check digit test is passed and the IBAN might be valid.*
+
+
+Let's add some test data (all these numbers are valid - you can invalidate them by changing any character).
+
+*British: GB72 HBZU 7006 7212 1253 00*
+
+*French: FR76 30003 03620 00020216907 50*
+
+*German: DE02100100100152517108*
+
+If you are an EU resident, you can use you own account number for tests.
