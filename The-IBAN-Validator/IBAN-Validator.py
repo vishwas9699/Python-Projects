@@ -6,7 +6,7 @@ elif len(iban) < 15: #  the IBAN mustn't be shorter than 15 characters (this is 
     print("IBAN entered is too short.") # if it is shorter, the user is informed;
 elif len(iban) > 31: # moreover, the IBAN cannot be longer than 31 characters (this is the longest variant, used in Malta)
     print("IBAN entered is too long.") # if it is longer, make an announcement;
-else:
+else: # start the actual processing;
     iban = (iban[4:] + iban[0:4]).upper()
     iban2 = ''
     for ch in iban:
