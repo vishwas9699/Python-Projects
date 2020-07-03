@@ -1,5 +1,5 @@
-iban = input("Enter IBAN, please: ")
-iban = iban.replace(' ','')
+iban = input("Enter IBAN, please: ") # ask the user to enter the IBAN (the number can contain spaces, as they significantly improve number readability...
+iban = iban.replace(' ','') #  ...but remove them immediately)
 if not iban.isalnum():
     print("You have entered invalid characters.")
 elif len(iban) < 15:
