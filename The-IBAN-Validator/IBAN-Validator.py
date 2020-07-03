@@ -3,7 +3,7 @@ iban = iban.replace(' ','') #  ...but remove them immediately)
 if not iban.isalnum(): # the entered IBAN must consist of digits and letters only - if it doesn't...
     print("You have entered invalid characters.") # ...output the message;
 elif len(iban) < 15: #  the IBAN mustn't be shorter than 15 characters (this is the shortest variant, used in Norway)
-    print("IBAN entered is too short.") #
+    print("IBAN entered is too short.") # if it is shorter, the user is informed;
 elif len(iban) > 31:
     print("IBAN entered is too long.")
 else:
