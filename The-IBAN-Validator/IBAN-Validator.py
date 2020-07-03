@@ -10,7 +10,7 @@ else: # start the actual processing;
     iban = (iban[4:] + iban[0:4]).upper() # move the four initial characters to the number's end, and convert all letters to upper case (step 02 of the algorithm)
     iban2 = '' # this is the variable used to complete the number, created by replacing the letters with digits (according to the algorithm's step 03)
     for ch in iban: # iterate through the IBAN;
-        if ch.isdigit():
+        if ch.isdigit(): # 
             iban2 += ch
         else:
             iban2 += str(10 + ord(ch) - ord('A'))
