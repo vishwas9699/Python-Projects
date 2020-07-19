@@ -51,4 +51,31 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 | **Problems**|  **Solution**|
 |----|----|
-|[Arithematic-expression](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/arthmeticexp.py)|
+|[Arithematic expression](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/arthmeticexp.py)|
+|[Beatles the music band](https://github.com/vishwas9699/Python-Projects/blob/master/Beatles-the-music-band/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Beatles-the-music-band/Beatles-the-band.py)|
+|[Collatz's hypothesis](https://github.com/vishwas9699/Python-Projects/blob/master/Collatz's-hypothesis/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Collatz's-hypothesis/Collatz's.py)|
+|[Converting fuel consumption](https://github.com/vishwas9699/Python-Projects/blob/master/Converting-fuel-consumption/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Converting-fuel-consumption/Fuel-consumption.py)|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
+|[]()|[Solution]()|
