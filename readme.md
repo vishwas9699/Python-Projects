@@ -55,11 +55,11 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 |[Beatles the music band](https://github.com/vishwas9699/Python-Projects/blob/master/Beatles-the-music-band/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Beatles-the-music-band/Beatles-the-band.py)|
 |[Collatz's hypothesis](https://github.com/vishwas9699/Python-Projects/blob/master/Collatz's-hypothesis/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Collatz's-hypothesis/Collatz's.py)|
 |[Converting fuel consumption](https://github.com/vishwas9699/Python-Projects/blob/master/Converting-fuel-consumption/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Converting-fuel-consumption/Fuel-consumption.py)|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
+|[Evaluate expression](https://github.com/vishwas9699/Python-Projects/blob/master/Evaluate-exp/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Evaluate-exp/evaluate-exp.py)|
+|[A leap year](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/A-leap-year/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/A-leap-year/leap-year.py)|
+|[Day of the year](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/Day-of-the-year/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/Day-of-the-year/leap-year2.py)|
+|[How-many-days](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/How-many-days/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/How-many-days/leap-year1.py)|
+|[leap-or-common-year](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/leap-or-common-year/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/leap-or-common-year/leap-or-commom-year.py)|
 |[]()|[Solution]()|
 |[]()|[Solution]()|
 |[]()|[Solution]()|
