@@ -65,17 +65,18 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 |[Number-of-sec-in-given-hour](https://github.com/vishwas9699/Python-Projects/blob/master/Number-of-sec-in-given-hour/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Number-of-sec-in-given-hour/no-of-sec.py)|
 |[Operations-with-list](https://github.com/vishwas9699/Python-Projects/blob/master/Operations-with-list/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Operations-with-list/operators-eith-python.py)|
 |[Prime-numbers-how-to-find-them](https://github.com/vishwas9699/Python-Projects/blob/master/Prime-numbers-how-to-find-them/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Prime-numbers-how-to-find-them/prime-number.py)|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
+|[Pyramid-height](https://github.com/vishwas9699/Python-Projects/blob/master/Pyramid-height/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Pyramid-height/Phyramid.py)|
+|[Replace-middle-number](https://github.com/vishwas9699/Python-Projects/blob/master/Replace-middle-number/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Replace-middle-number/list.py)|
+|[Secret-number](https://github.com/vishwas9699/Python-Projects/blob/master/Secret-number/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Secret-number/magicno.py)|
+|[Secret-word](https://github.com/vishwas9699/Python-Projects/blob/master/Secret-word/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Secret-word/secret-word.py)|
+|[Simple-caluclator](https://github.com/vishwas9699/Python-Projects/blob/master/Simple-caluclator/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Simple-caluclator/Simple-caluc.py)|
+|[Simple-convertor](https://github.com/vishwas9699/Python-Projects/blob/master/Simple-convertor/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Simple-convertor/simplecaluclator.py)|
+|[Spathiphyllum](https://github.com/vishwas9699/Python-Projects/blob/master/Spathiphyllum/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Spathiphyllum/spathiphyllum.py)|
+|[Tax-caluclator](https://github.com/vishwas9699/Python-Projects/blob/master/Tax-caluclator/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Tax-caluclator/tax-caluclator.py)|
+|[The Caesar Cipher:encrypting a message](https://github.com/vishwas9699/Python-Projects/blob/master/The-Caesar-Cipher/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/The-Caesar-Cipher/encrypting%20a%20message/encryption.py)|
+|[The Caesar Cipher:decrypting a message](https://github.com/vishwas9699/Python-Projects/blob/master/The-Caesar-Cipher/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/The-Caesar-Cipher/decrypting%20a%20message/decryption.py)|
+|[The-IBAN-Validator](https://github.com/vishwas9699/Python-Projects/blob/master/The-IBAN-Validator/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/The-IBAN-Validator/IBAN-Validator.py)|
+|[The-Numbers-Processor](https://github.com/vishwas9699/Python-Projects/blob/master/The-Numbers-Processor/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/The-Numbers-Processor/number-processor.py)|
+|[Total-apple](https://github.com/vishwas9699/Python-Projects/blob/master/Total-apple/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Total-apple/totalapples.py)|
+|[Vowel-eater:with-concatenation](https://github.com/vishwas9699/Python-Projects/blob/master/Vowel-eater/with-concatenation/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Vowel-eater/with-concatenation/vowel-eater-concatenation.py)|
+|[Vowel-eater:without-cocatenation](https://github.com/vishwas9699/Python-Projects/blob/master/Vowel-eater/without-cocatenation/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Vowel-eater/without-cocatenation/Vowel-eater.py)|
