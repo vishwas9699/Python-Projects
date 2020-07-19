@@ -47,7 +47,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
     -Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
 
-#### Here is the Python Project with their Solutions
+#### Some of the Python Project with their Solutions
 
 | **Problems**|  **Solution**|
 |----|----|
