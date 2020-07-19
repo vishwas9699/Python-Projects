@@ -60,11 +60,11 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 |[Day of the year](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/Day-of-the-year/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/Day-of-the-year/leap-year2.py)|
 |[How-many-days](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/How-many-days/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/How-many-days/leap-year1.py)|
 |[leap-or-common-year](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/leap-or-common-year/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Leap-year-program/leap-or-common-year/leap-or-commom-year.py)|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
-|[]()|[Solution]()|
+|[Minutes-to-hour](https://github.com/vishwas9699/Python-Projects/blob/master/Minutes-to-hour/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Minutes-to-hour/min-to-hour.py)|
+|[Mississippi-river](https://github.com/vishwas9699/Python-Projects/blob/master/Mississippi-river/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Mississippi-river/Mississippi.py)|
+|[Number-of-sec-in-given-hour](https://github.com/vishwas9699/Python-Projects/blob/master/Number-of-sec-in-given-hour/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Number-of-sec-in-given-hour/no-of-sec.py)|
+|[Operations-with-list](https://github.com/vishwas9699/Python-Projects/blob/master/Operations-with-list/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Operations-with-list/operators-eith-python.py)|
+|[Prime-numbers-how-to-find-them](https://github.com/vishwas9699/Python-Projects/blob/master/Prime-numbers-how-to-find-them/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Prime-numbers-how-to-find-them/prime-number.py)|
 |[]()|[Solution]()|
 |[]()|[Solution]()|
 |[]()|[Solution]()|
