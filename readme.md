@@ -51,4 +51,4 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 | **Problems**|  **Solution**|
 |----|----|
-|[Arithematic-expression]|[Solution]|
+|[Arithematic-expression](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/readme.md)|[Solution](https://github.com/vishwas9699/Python-Projects/blob/master/Arithematic-expression/arthmeticexp.py)|
