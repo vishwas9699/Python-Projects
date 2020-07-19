@@ -4,7 +4,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 ------
 
-## It is used for:
+### It is used for:
 
     -web development (server-side)
     -software development
@@ -13,7 +13,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 ------
 
-## What can Python do?
+### What can Python do?
 
     -Python can be used on a server to create web applications.
     -Python can be used alongside software to create workflows.
@@ -23,7 +23,7 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 ------
 
-## Why Python?
+### Why Python?
 
     -Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
     -Python has a simple syntax similar to the English language.
@@ -33,15 +33,21 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 ------
 
-## Good to know
+### Good to know
 
     -The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
     -In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 
 ------
 
-## Python Syntax compared to other programming languages
+### Python Syntax compared to other programming languages
 
     -Python was designed for readability, and has some similarities to the English language with influence from mathematics.
     -Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
     -Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+
+#### Here is the Python Project with their Solutions
+
+| **Problems**|  **Solution**|
+|----|----|
