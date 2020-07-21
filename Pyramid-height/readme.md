@@ -8,4 +8,4 @@
 
 Note: the height is measured by the number of fully completed layers - if the builders don't have a sufficient number of blocks and cannot complete the next layer, they finish their work immediately
 
-*The figure is in the file name with Blocks.JPG which illustrates the rule used by the builders*
+*[Blocks.JPG](https://github.com/vishwas9699/Python-Projects/blob/master/Pyramid-height/Blocks.JPG) which illustrates the rule used by the builders*

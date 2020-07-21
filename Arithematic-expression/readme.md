@@ -1,4 +1,5 @@
 **Scenerio**
+
 Your task is to complete the code in order to evaluate the following expression:
 
 3x^3 - 2x^2 + 3^x - 1
