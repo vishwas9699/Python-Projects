@@ -6,10 +6,10 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 
 ### It is used for:
 
-    -web development (server-side)
-    -software development
-    -mathematics
-    -system scripting.
+* web development (server-side)
+* software development
+* mathematics
+* system scripting.
 
 ------
 
